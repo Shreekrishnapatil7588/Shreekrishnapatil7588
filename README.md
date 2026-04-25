@@ -1,4 +1,4 @@
-# Hi there, I'm Shree Krishna Patil 👋
+# Hi there, I'm ShreeKrishna Patil 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Welcome_to_my_GitHub-blue?style=flat-square&logo=github" alt="Welcome">
