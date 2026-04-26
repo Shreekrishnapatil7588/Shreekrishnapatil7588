@@ -1,154 +1,101 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=110&section=header" width="100%"/>
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shreekrishna+Patil+%F0%9F%91%8B;Data+Science+%7C+Analytics+%7C+ML;Turning+Raw+Data+into+Real+Insights;Let's+Build+Something+Meaningful!)](https://git.io/typing-svg)
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=header&text=&fontSize=0" width="100%"/>
+### Hi there, I'm Shreekrishna Patil 👋
 
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=Shreekrishnapatil7588&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Shreekrishnapatil7588?style=for-the-badge&color=6C63FF&logo=github)](https://github.com/Shreekrishnapatil7588)
+**Data Science & Analytics Enthusiast** | Full-Stack Developer | Problem Solver
 
-</div>
-
----
-
-## 🚀 About Me
-
-```python
-class ShreeKrishnaPatil:
-    def __init__(self):
-        self.name       = "Shreekrishna Patil"
-        self.role       = "Data Science & Analytics Enthusiast"
-        self.location   = "India 🇮🇳"
-        self.focus      = ["Data Analysis", "Machine Learning", "Power BI", "Python"]
-        self.learning   = ["Deep Learning", "NLP", "Cloud Analytics"]
-        self.open_to    = "Collaborations, Internships & Full-time Roles"
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's turn data into decisions. 📊")
-
-me = ShreeKrishnaPatil()
-me.say_hi()
+```yaml
+name     : Shreekrishna Patil
+from     : India 🇮🇳
+focus    : Data Science · Analytics · ML
+tools    : Python · Power BI · SQL · React
+learning : Deep Learning · NLP · Cloud
+open_to  : Collaborations & Opportunities
 ```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7C3AED&width=380&lines=Turning+data+into+decisions...;Building+smart+solutions...;Always+learning+something+new...)](https://git.io/typing-svg)
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### 📊 Data Science & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4EAE91?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Data Science**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### 🗄️ Databases & BI
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+**Analytics & BI**
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-### 💻 Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+**Web & Dev**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ## 📌 Featured Projects
 
-| 🔹 Project | 📝 Description | 🛠️ Stack | 🔗 |
-|---|---|---|---|
-| **Analytics Project** | Data-driven business insights via Power BI dashboards | Power BI, Python, SQL | [View →](https://github.com/Shreekrishnapatil7588/Analytics_Project) |
-| **Smart Hostel Complaint System** | Web app to manage and track hostel complaints efficiently | HTML, CSS, JS | [View →](https://github.com/Shreekrishnapatil7588/Smart-Hostel-Complaint-Management) |
-| **Secret Number Guess Game** | Fun logic game built in C++ with number-guessing mechanics | C++ | [View →](https://github.com/Shreekrishnapatil7588/Secret_Number_Guess_Game) |
-| **Portfolio Website** | Personal portfolio showcasing projects and skills | HTML, CSS | [View →](https://github.com/Shreekrishnapatil7588/portfolio) |
+| Project | About | Stack |
+|---|---|---|
+| [**Analytics Project**](https://github.com/Shreekrishnapatil7588/Analytics_Project) | Data-driven insights via Power BI dashboards | Power BI · Python · SQL |
+| [**Smart Hostel System**](https://github.com/Shreekrishnapatil7588/Smart-Hostel-Complaint-Management) | Web app for hostel complaint tracking | HTML · CSS · JS |
+| [**Number Guess Game**](https://github.com/Shreekrishnapatil7588/Secret_Number_Guess_Game) | Logic-based number guessing game | C++ |
+| [**Portfolio**](https://github.com/Shreekrishnapatil7588/portfolio) | Personal portfolio showcasing my work | HTML · CSS |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Shreekrishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreekrishnapatil7588&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreekrishnapatil7588&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreekrishnapatil7588&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shreekrishnapatil7588&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreekrishnapatil7588&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Shreekrishnapatil7588&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreekrishnapatil7588&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-- 🤖 Machine Learning & Predictive Modeling
-- 📊 Advanced Power BI & Tableau Dashboards
-- 🧠 Natural Language Processing (NLP)
-- ☁️ Cloud Platforms — AWS / GCP
-- 🔢 Statistics for Data Science
-
----
-
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreekrishnapatil7588)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShreeKrishnap)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Shreekrishnapatil7588/portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreekrishnapatil7588)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Shreekrishnapatil7588/portfolio)
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💡 Quote I Live By
-
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
-
-![Made with ❤️ by Shreekrishna Patil](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Shreekrishna%20Patil-blueviolet?style=flat-square)
-
+<sub><i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i></sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=90&section=footer" width="100%"/>
