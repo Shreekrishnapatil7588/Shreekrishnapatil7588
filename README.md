@@ -20,12 +20,12 @@
 **Data Science & Analytics Enthusiast** | Full-Stack Developer | Problem Solver
 
 ```yaml
-name     : Shreekrishna Patil
-from     : India 🇮🇳
-focus    : Data Science · Analytics · ML
-tools    : Python · Power BI · SQL · React
-learning : Deep Learning · NLP · Cloud
-open_to  : Collaborations & Opportunities
+Name     : Shreekrishna Patil
+From     : India 🇮🇳
+Focus    : Data Science · Analytics · ML
+Tools    : Python · Power BI · SQL · React
+Learning : Deep Learning · NLP · Cloud
+Open_to  : Collaborations & Opportunities
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=A855F7&width=380&lines=Turning+data+into+decisions...;Building+smart+solutions...;Always+learning+something+new...)](https://git.io/typing-svg)
