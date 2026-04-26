@@ -1,10 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=110&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Shreekrishna%20Patil&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Data%20Science%20%7C%20Analytics%20%7C%20Full-Stack%20Developer&descAlignY=75&descSize=18&descColor=c084fc" width="100%"/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shreekrishna+Patil+%F0%9F%91%8B;Data+Science+%26+Analytics+Enthusiast;Full-Stack+Developer+%7C+Problem+Solver;Turning+Raw+Data+into+Real+Decisions+%F0%9F%93%8A)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shreekrishnapatil7588&style=flat-square&color=7C3AED&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Shreekrishnapatil7588?style=flat-square&color=7C3AED&logo=github&label=Followers)](https://github.com/Shreekrishnapatil7588)
+
+</div>
+
+---
 
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
 
-### Hi there, I'm Shreekrishna Patil 👋
+### 🧑‍💻 About Me
 
 **Data Science & Analytics Enthusiast** | Full-Stack Developer | Problem Solver
 
@@ -17,7 +28,7 @@ learning : Deep Learning · NLP · Cloud
 open_to  : Collaborations & Opportunities
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7C3AED&width=380&lines=Turning+data+into+decisions...;Building+smart+solutions...;Always+learning+something+new...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=A855F7&width=380&lines=Turning+data+into+decisions...;Building+smart+solutions...;Always+learning+something+new...)](https://git.io/typing-svg)
 
 </td>
 <td width="45%" align="center" valign="middle">
